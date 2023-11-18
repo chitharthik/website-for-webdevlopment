@@ -1,0 +1,183 @@
+.mark
+{
+    
+   
+    background-color: blue;
+    width: 1500px;
+    height: 22px;
+    color: whitesmoke;
+}
+.web
+{
+    color: red;
+    font-size: 32px;
+    margin-left: 40px;
+    margin-top: 30px;
+    text-shadow: 3px 3px 10px 6px black;
+}
+input
+{
+    position: relative;
+    top: -55px;
+    left: 500px;
+    width: 500px;
+    height: 30px;
+    border-radius: 30px;
+    border-style: none;
+    border: 2px solid rgb(173, 168, 168);
+    opacity: 0.7;
+}
+
+::placeholder
+{
+    font-size:large;
+    position: relative;
+    left: 10px;
+    opacity:unset;
+}
+
+span
+{
+    color: blue;
+}
+hr{
+    position: relative;
+    top: -35px;
+}
+ul,li,a
+{
+    display: flex;
+    justify-content: space-around;
+
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -11px;
+}
+summary
+{
+    position: relative;
+    top: -20px;
+    cursor: pointer;
+
+}
+li a:hover
+{
+    text-shadow: 0px 0px 10px ;
+}
+.gradiant
+{
+    margin: 0px;
+    margin-top: 25px;
+    width: 1515px;
+    height: 400px;
+    
+    background:linear-gradient(red,blue)
+}
+.title
+{
+    color: whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    top: 80px;
+    left: 30px;
+    
+}
+.def
+{
+    color: whitesmoke;
+    font-family:serif;
+  
+    font-size: 15px;
+    position: relative;
+    top: 80px;
+    left: 30px;
+
+}
+.button1
+{
+    position: relative;
+    top: 100px;
+    left: -681px;
+   
+    
+}
+.btnn
+{
+    border-style: none;
+   background-color:blue;
+   height: 50px;
+   width: 100px;
+   border-radius: 40px;
+   color: whitesmoke;
+   cursor: pointer;
+  
+
+}
+.btnn:hover
+{
+    box-shadow: 0px 0px 20px whitesmoke;
+
+}
+.kapil
+{
+    
+    position: relative;
+    bottom: 280px;
+    width:700px;
+    height: 400px;
+    height: fit-content;
+    left: 500px;
+}
+img
+{
+ width: fit-content; 
+ height: fit-content;
+ height: 70px;
+ width: 70px;
+ padding-left: 270px; 
+ 
+
+}
+.loc
+{
+    display: flex;
+    position: relative;
+    right: 95px;
+    cursor: pointer;
+    
+
+   
+    
+}
+.mail
+{
+    width: fit-content; 
+    height: fit-content;
+    margin-top: 7px;
+    height: 55px;
+    width: 55px;
+    background-color: ;
+
+}
+.wh
+{
+    width: fit-content; 
+    height: fit-content;
+    height: 65px;
+    width: 65px;
+
+}
+h4{
+    position: relative;
+    top: 50px;
+    left: -65px;
+}
+.sms
+{
+    position: relative;
+    top: 50px;
+    left: -42px;   
+}
